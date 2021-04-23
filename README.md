@@ -1,5 +1,12 @@
 # tkinter_project
 Simple Calculator to do some mathmatical solutions
+The mathematical operators which can be used are :
+Addition
+Subtraction
+Divisison
+Multiplication
+tkinter elements which are used are button,label and entry
+
 
 [Screenshot (52)](https://user-images.githubusercontent.com/78782776/115899427-74f54e00-a47e-11eb-9d85-04fdbf23649c.png)
 ![Screenshot (53)](https://user-images.githubusercontent.com/78782776/115899452-7b83c580-a47e-11eb-8c55-2315fffbf3f8.png)
